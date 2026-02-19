@@ -1,346 +1,346 @@
-section,category,metric,unit,year,target,value
-Five-Year Statistical Summary,Financial Data,Total revenue,$'000,2025,,3778316
-Five-Year Statistical Summary,Financial Data,Total revenue,$'000,2024,,3624338
-Five-Year Statistical Summary,Financial Data,Total revenue,$'000,2023,,3310491
-Five-Year Statistical Summary,Financial Data,Total revenue,$'000,2022,,3061511
-Five-Year Statistical Summary,Financial Data,Total revenue,$'000,2021,,2948499
-Five-Year Statistical Summary,Financial Data,Operating subsidy,$'000,2025,,596630
-Five-Year Statistical Summary,Financial Data,Operating subsidy,$'000,2024,,605817
-Five-Year Statistical Summary,Financial Data,Operating subsidy,$'000,2023,,614473
-Five-Year Statistical Summary,Financial Data,Operating subsidy,$'000,2022,,519186
-Five-Year Statistical Summary,Financial Data,Operating subsidy,$'000,2021,,468579
-Five-Year Statistical Summary,Financial Data,Direct operating expenses,$'000,2025,,1376748
-Five-Year Statistical Summary,Financial Data,Direct operating expenses,$'000,2024,,1311780
-Five-Year Statistical Summary,Financial Data,Direct operating expenses,$'000,2023,,1181910
-Five-Year Statistical Summary,Financial Data,Direct operating expenses,$'000,2022,,1093631
-Five-Year Statistical Summary,Financial Data,Direct operating expenses,$'000,2021,,1021878
-Five-Year Statistical Summary,Financial Data,Depreciation / amortisation,$'000,2025,,590879
-Five-Year Statistical Summary,Financial Data,Depreciation / amortisation,$'000,2024,,579115
-Five-Year Statistical Summary,Financial Data,Depreciation / amortisation,$'000,2023,,558627
-Five-Year Statistical Summary,Financial Data,Depreciation / amortisation,$'000,2022,,532766
-Five-Year Statistical Summary,Financial Data,Depreciation / amortisation,$'000,2021,,521427
-Five-Year Statistical Summary,Financial Data,Net interest expense,$'000,2025,,130797
-Five-Year Statistical Summary,Financial Data,Net interest expense,$'000,2024,,166858
-Five-Year Statistical Summary,Financial Data,Net interest expense,$'000,2023,,186879
-Five-Year Statistical Summary,Financial Data,Net interest expense,$'000,2022,,168685
-Five-Year Statistical Summary,Financial Data,Net interest expense,$'000,2021,,181180
-Five-Year Statistical Summary,Financial Data,Income tax expense,$'000,2025,,484790
-Five-Year Statistical Summary,Financial Data,Income tax expense,$'000,2024,,455329
-Five-Year Statistical Summary,Financial Data,Income tax expense,$'000,2023,,402064
-Five-Year Statistical Summary,Financial Data,Income tax expense,$'000,2022,,376646
-Five-Year Statistical Summary,Financial Data,Income tax expense,$'000,2021,,359077
-Five-Year Statistical Summary,Financial Data,Operating surplus after tax,$'000,2025,,1125960
-Five-Year Statistical Summary,Financial Data,Operating surplus after tax,$'000,2024,,1059694
-Five-Year Statistical Summary,Financial Data,Operating surplus after tax,$'000,2023,,946778
-Five-Year Statistical Summary,Financial Data,Operating surplus after tax,$'000,2022,,878513
-Five-Year Statistical Summary,Financial Data,Operating surplus after tax,$'000,2021,,844996
-Five-Year Statistical Summary,Financial Data,Non-current borrowings,$'000,2025,,4495528
-Five-Year Statistical Summary,Financial Data,Non-current borrowings,$'000,2024,,4605724
-Five-Year Statistical Summary,Financial Data,Non-current borrowings,$'000,2023,,5068418
-Five-Year Statistical Summary,Financial Data,Non-current borrowings,$'000,2022,,5644394
-Five-Year Statistical Summary,Financial Data,Non-current borrowings,$'000,2021,,6003994
-Five-Year Statistical Summary,Financial Data,New works investment (excl. developer take-over works),$'000,2025,,1424591
-Five-Year Statistical Summary,Financial Data,New works investment (excl. developer take-over works),$'000,2024,,988293
-Five-Year Statistical Summary,Financial Data,New works investment (excl. developer take-over works),$'000,2023,,744992
-Five-Year Statistical Summary,Financial Data,New works investment (excl. developer take-over works),$'000,2022,,648015
-Five-Year Statistical Summary,Financial Data,New works investment (excl. developer take-over works),$'000,2021,,652341
-Five-Year Statistical Summary,Financial Data,Current borrowings,$'000,2025,,20474
-Five-Year Statistical Summary,Financial Data,Current borrowings,$'000,2024,,18499
-Five-Year Statistical Summary,Financial Data,Current borrowings,$'000,2023,,9995
-Five-Year Statistical Summary,Financial Data,Current borrowings,$'000,2022,,17024
-Five-Year Statistical Summary,Financial Data,Current borrowings,$'000,2021,,17539
-Five-Year Statistical Summary,Financial Data,New borrowings,$'000,2025,,-97175
-Five-Year Statistical Summary,Financial Data,New borrowings,$'000,2024,,-638700
-Five-Year Statistical Summary,Financial Data,New borrowings,$'000,2023,,-388700
-Five-Year Statistical Summary,Financial Data,New borrowings,$'000,2022,,-356604
-Five-Year Statistical Summary,Financial Data,New borrowings,$'000,2021,,-194350
-Five-Year Statistical Summary,Operating Data - Water Supply,Annual volume of water supplied,ML,2025,,424090
-Five-Year Statistical Summary,Operating Data - Water Supply,Annual volume of water supplied,ML,2024,,426811
-Five-Year Statistical Summary,Operating Data - Water Supply,Annual volume of water supplied,ML,2023,,386789
-Five-Year Statistical Summary,Operating Data - Water Supply,Annual volume of water supplied,ML,2022,,387975
-Five-Year Statistical Summary,Operating Data - Water Supply,Annual volume of water supplied,ML,2021,,374202
-Five-Year Statistical Summary,Operating Data - Water Supply,Number of properties served (water),No.,2025,,1399952
-Five-Year Statistical Summary,Operating Data - Water Supply,Number of properties served (water),No.,2024,,1378861
-Five-Year Statistical Summary,Operating Data - Water Supply,Number of properties served (water),No.,2023,,1365217
-Five-Year Statistical Summary,Operating Data - Water Supply,Number of properties served (water),No.,2022,,1350688
-Five-Year Statistical Summary,Operating Data - Water Supply,Number of properties served (water),No.,2021,,1338298
-Five-Year Statistical Summary,Operating Data - Water Supply,Number of properties connected (water),No.,2025,,1213819
-Five-Year Statistical Summary,Operating Data - Water Supply,Number of properties connected (water),No.,2024,,1195269
-Five-Year Statistical Summary,Operating Data - Water Supply,Number of properties connected (water),No.,2023,,1181035
-Five-Year Statistical Summary,Operating Data - Water Supply,Number of properties connected (water),No.,2022,,1167415
-Five-Year Statistical Summary,Operating Data - Water Supply,Number of properties connected (water),No.,2021,,1154501
-Five-Year Statistical Summary,Operating Data - Water Supply,Length of mains,km,2025,,35500
-Five-Year Statistical Summary,Operating Data - Water Supply,Length of mains,km,2024,,35288
-Five-Year Statistical Summary,Operating Data - Water Supply,Length of mains,km,2023,,35122
-Five-Year Statistical Summary,Operating Data - Water Supply,Length of mains,km,2022,,34917
-Five-Year Statistical Summary,Operating Data - Water Supply,Length of mains,km,2021,,34947
-Five-Year Statistical Summary,Operating Data - Wastewater,Average volume of wastewater treated daily,ML,2025,,502
-Five-Year Statistical Summary,Operating Data - Wastewater,Average volume of wastewater treated daily,ML,2024,,491
-Five-Year Statistical Summary,Operating Data - Wastewater,Average volume of wastewater treated daily,ML,2023,,486
-Five-Year Statistical Summary,Operating Data - Wastewater,Average volume of wastewater treated daily,ML,2022,,480
-Five-Year Statistical Summary,Operating Data - Wastewater,Average volume of wastewater treated daily,ML,2021,,466
-Five-Year Statistical Summary,Operating Data - Wastewater,Number of properties served (wastewater),No.,2025,,1144814
-Five-Year Statistical Summary,Operating Data - Wastewater,Number of properties served (wastewater),No.,2024,,1126800
-Five-Year Statistical Summary,Operating Data - Wastewater,Number of properties served (wastewater),No.,2023,,1114625
-Five-Year Statistical Summary,Operating Data - Wastewater,Number of properties served (wastewater),No.,2022,,1103173
-Five-Year Statistical Summary,Operating Data - Wastewater,Number of properties served (wastewater),No.,2021,,1091581
-Five-Year Statistical Summary,Operating Data - Wastewater,Number of properties connected (wastewater),No.,2025,,1066474
-Five-Year Statistical Summary,Operating Data - Wastewater,Number of properties connected (wastewater),No.,2024,,1047551
-Five-Year Statistical Summary,Operating Data - Wastewater,Number of properties connected (wastewater),No.,2023,,1032236
-Five-Year Statistical Summary,Operating Data - Wastewater,Number of properties connected (wastewater),No.,2022,,1021436
-Five-Year Statistical Summary,Operating Data - Wastewater,Number of properties connected (wastewater),No.,2021,,1011665
-Five-Year Statistical Summary,Operating Data - Wastewater,Length of sewers,km,2025,,18107
-Five-Year Statistical Summary,Operating Data - Wastewater,Length of sewers,km,2024,,17904
-Five-Year Statistical Summary,Operating Data - Wastewater,Length of sewers,km,2023,,17701
-Five-Year Statistical Summary,Operating Data - Wastewater,Length of sewers,km,2022,,17526
-Five-Year Statistical Summary,Operating Data - Wastewater,Length of sewers,km,2021,,17397
-Five-Year Statistical Summary,Operating Data - Drainage,Number of properties served - metropolitan drainage,No.,2025,,442391
-Five-Year Statistical Summary,Operating Data - Drainage,Number of properties served - metropolitan drainage,No.,2024,,437609
-Five-Year Statistical Summary,Operating Data - Drainage,Number of properties served - metropolitan drainage,No.,2023,,434287
-Five-Year Statistical Summary,Operating Data - Drainage,Number of properties served - metropolitan drainage,No.,2022,,430082
-Five-Year Statistical Summary,Operating Data - Drainage,Number of properties served - metropolitan drainage,No.,2021,,426592
-Five-Year Statistical Summary,Operating Data - Drainage,Length of drains,km,2025,,2538
-Five-Year Statistical Summary,Operating Data - Drainage,Length of drains,km,2024,,2538
-Five-Year Statistical Summary,Operating Data - Drainage,Length of drains,km,2023,,2539
-Five-Year Statistical Summary,Operating Data - Drainage,Length of drains,km,2022,,2539
-Five-Year Statistical Summary,Operating Data - Drainage,Length of drains,km,2021,,2539
-Five-Year Statistical Summary,Operating Data - Irrigation,Volume of water delivered,ML,2025,,5469
-Five-Year Statistical Summary,Operating Data - Irrigation,Volume of water delivered,ML,2024,,6082
-Five-Year Statistical Summary,Operating Data - Irrigation,Volume of water delivered,ML,2023,,5941
-Five-Year Statistical Summary,Operating Data - Irrigation,Volume of water delivered,ML,2022,,6057
-Five-Year Statistical Summary,Operating Data - Irrigation,Volume of water delivered,ML,2021,,5539
-Five-Year Statistical Summary,Operating Data - Employees,Total number of employees,No.,2025,,4296
-Five-Year Statistical Summary,Operating Data - Employees,Total number of employees,No.,2024,,4212
-Five-Year Statistical Summary,Operating Data - Employees,Total number of employees,No.,2023,,4043
-Five-Year Statistical Summary,Operating Data - Employees,Total number of employees,No.,2022,,3822
-Five-Year Statistical Summary,Operating Data - Employees,Total number of employees,No.,2021,,3662
-Five-Year Statistical Summary,Operating Data - Employees,Total number of full-time equivalents (FTEs),No.,2025,,4155
-Five-Year Statistical Summary,Operating Data - Employees,Total number of full-time equivalents (FTEs),No.,2024,,4019
-Five-Year Statistical Summary,Operating Data - Employees,Total number of full-time equivalents (FTEs),No.,2023,,3843
-Five-Year Statistical Summary,Operating Data - Employees,Total number of full-time equivalents (FTEs),No.,2022,,3627
-Five-Year Statistical Summary,Operating Data - Employees,Total number of full-time equivalents (FTEs),No.,2021,,3499
-Five-Year Statistical Summary,Operating Data - Employees,Total number of FTEs (year-end average),No.,2025,,4148
-Five-Year Statistical Summary,Operating Data - Employees,Total number of FTEs (year-end average),No.,2024,,3943
-Five-Year Statistical Summary,Operating Data - Employees,Total number of FTEs (year-end average),No.,2023,,3727
-Five-Year Statistical Summary,Operating Data - Employees,Total number of FTEs (year-end average),No.,2022,,3583
-Five-Year Statistical Summary,Operating Data - Employees,Total number of FTEs (year-end average),No.,2021,,3421
-Performance Summary,Safe for All,Metro localities meeting E.coli requirements,%,2025,100,100
-Performance Summary,Safe for All,Metro localities meeting E.coli requirements,%,2024,,100
-Performance Summary,Safe for All,Metro localities meeting E.coli requirements,%,2023,,96
-Performance Summary,Safe for All,Metro localities meeting E.coli requirements,%,2022,,100
-Performance Summary,Safe for All,Metro localities meeting E.coli requirements,%,2021,,100
-Performance Summary,Safe for All,Metro localities meeting amoebae requirements,%,2025,100,100
-Performance Summary,Safe for All,Metro localities meeting amoebae requirements,%,2024,,100
-Performance Summary,Safe for All,Metro localities meeting amoebae requirements,%,2023,,100
-Performance Summary,Safe for All,Metro localities meeting amoebae requirements,%,2022,,100
-Performance Summary,Safe for All,Metro localities meeting amoebae requirements,%,2021,,100
-Performance Summary,Safe for All,Metro localities meeting health-related chemical quality,%,2025,100,100
-Performance Summary,Safe for All,Metro localities meeting health-related chemical quality,%,2024,,100
-Performance Summary,Safe for All,Metro localities meeting health-related chemical quality,%,2023,,100
-Performance Summary,Safe for All,Metro localities meeting health-related chemical quality,%,2022,,100
-Performance Summary,Safe for All,Metro localities meeting health-related chemical quality,%,2021,,100
-Performance Summary,Safe for All,Metro localities meeting radiological performance,%,2025,100,100
-Performance Summary,Safe for All,Metro localities meeting radiological performance,%,2024,,100
-Performance Summary,Safe for All,Metro localities meeting radiological performance,%,2023,,100
-Performance Summary,Safe for All,Metro localities meeting radiological performance,%,2022,,100
-Performance Summary,Safe for All,Metro localities meeting radiological performance,%,2021,,100
-Performance Summary,Safe for All,Country localities meeting E.coli requirements,%,2025,100,100
-Performance Summary,Safe for All,Country localities meeting E.coli requirements,%,2024,,99.55
-Performance Summary,Safe for All,Country localities meeting E.coli requirements,%,2023,,100
-Performance Summary,Safe for All,Country localities meeting E.coli requirements,%,2022,,100
-Performance Summary,Safe for All,Country localities meeting E.coli requirements,%,2021,,100
-Performance Summary,Safe for All,Country localities meeting amoebae requirements,%,2025,100,99.55
-Performance Summary,Safe for All,Country localities meeting amoebae requirements,%,2024,,100
-Performance Summary,Safe for All,Country localities meeting amoebae requirements,%,2023,,100
-Performance Summary,Safe for All,Country localities meeting amoebae requirements,%,2022,,100
-Performance Summary,Safe for All,Country localities meeting amoebae requirements,%,2021,,100
-Performance Summary,Safe for All,Country localities meeting health-related chemical quality,%,2025,100,100
-Performance Summary,Safe for All,Country localities meeting health-related chemical quality,%,2024,,100
-Performance Summary,Safe for All,Country localities meeting health-related chemical quality,%,2023,,100
-Performance Summary,Safe for All,Country localities meeting health-related chemical quality,%,2022,,100
-Performance Summary,Safe for All,Country localities meeting health-related chemical quality,%,2021,,100
-Performance Summary,Safe for All,Country localities meeting radiological performance,%,2025,100,99.19
-Performance Summary,Safe for All,Country localities meeting radiological performance,%,2024,,99.08
-Performance Summary,Safe for All,Country localities meeting radiological performance,%,2023,,99
-Performance Summary,Safe for All,Country localities meeting radiological performance,%,2022,,100
-Performance Summary,Safe for All,Country localities meeting radiological performance,%,2021,,100
-Performance Summary,Efficient,Operating cost per property,$,2025,1045.3,1092.6
-Performance Summary,Efficient,Operating cost per property,$,2024,,1050.9
-Performance Summary,Efficient,Operating cost per property,$,2023,,960.5
-Performance Summary,Efficient,Operating cost per property,$,2022,,908.1
-Performance Summary,Efficient,Operating cost per property,$,2021,,807.8
-Performance Summary,Efficient,Total cost per property,$,2025,2412,2465
-Performance Summary,Efficient,Total cost per property,$,2024,,2380
-Performance Summary,Efficient,Total cost per property,$,2023,,2229
-Performance Summary,Efficient,Total cost per property,$,2022,,2076
-Performance Summary,Efficient,Total cost per property,$,2021,,2028
-Performance Summary,Efficient,Surplus before income tax equivalent,$m,2025,1594,1611
-Performance Summary,Efficient,Surplus before income tax equivalent,$m,2024,,1515
-Performance Summary,Efficient,Surplus before income tax equivalent,$m,2023,,1349
-Performance Summary,Efficient,Surplus before income tax equivalent,$m,2022,,1255
-Performance Summary,Efficient,Surplus before income tax equivalent,$m,2021,,1253
-Performance Summary,Efficient,Return on assets,%,2025,5.7,5.7
-Performance Summary,Efficient,Return on assets,%,2024,,6.2
-Performance Summary,Efficient,Return on assets,%,2023,,6.4
-Performance Summary,Efficient,Return on assets,%,2022,,7.0
-Performance Summary,Efficient,Return on assets,%,2021,,6.8
-Performance Summary,Efficient,Return on equity,%,2025,7.5,7.3
-Performance Summary,Efficient,Return on equity,%,2024,,7.5
-Performance Summary,Efficient,Return on equity,%,2023,,7.2
-Performance Summary,Efficient,Return on equity,%,2022,,7.2
-Performance Summary,Efficient,Return on equity,%,2021,,7.3
-Performance Summary,Efficient,Interest cover,Times,2025,8.1,7.8
-Performance Summary,Efficient,Interest cover,Times,2024,,7.3
-Performance Summary,Efficient,Interest cover,Times,2023,,6.7
-Performance Summary,Efficient,Interest cover,Times,2022,,7.7
-Performance Summary,Efficient,Interest cover,Times,2021,,6.7
-Performance Summary,Efficient,Debt to Total Assets,%,2025,25.3,21.0
-Performance Summary,Efficient,Debt to Total Assets,%,2024,,22.8
-Performance Summary,Efficient,Debt to Total Assets,%,2023,,26.9
-Performance Summary,Efficient,Debt to Total Assets,%,2022,,29.8
-Performance Summary,Efficient,Debt to Total Assets,%,2021,,32.6
-Performance Summary,Environmentally Sustainable,Overflows to Swan-Canning - conveyance system,No.,2025,0,0
-Performance Summary,Environmentally Sustainable,Overflows to Swan-Canning - conveyance system,No.,2024,,2
-Performance Summary,Environmentally Sustainable,Overflows to Swan-Canning - conveyance system,No.,2023,,5
-Performance Summary,Environmentally Sustainable,Overflows to Swan-Canning - conveyance system,No.,2022,,3
-Performance Summary,Environmentally Sustainable,Overflows to Swan-Canning - conveyance system,No.,2021,,0
-Performance Summary,Environmentally Sustainable,Overflows to Swan-Canning - pump stations only,No.,2025,0,0
-Performance Summary,Environmentally Sustainable,Overflows to Swan-Canning - pump stations only,No.,2024,,6
-Performance Summary,Environmentally Sustainable,Overflows to Swan-Canning - pump stations only,No.,2023,,1
-Performance Summary,Environmentally Sustainable,Overflows to Swan-Canning - pump stations only,No.,2022,,1
-Performance Summary,Environmentally Sustainable,Overflows to Swan-Canning - pump stations only,No.,2021,,0
-Performance Summary,Environmentally Sustainable,Electricity consumption per unit of output - water,MWh/ML,2025,2.15,2.03
-Performance Summary,Environmentally Sustainable,Electricity consumption per unit of output - water,MWh/ML,2024,,1.77
-Performance Summary,Environmentally Sustainable,Electricity consumption per unit of output - water,MWh/ML,2023,,1.60
-Performance Summary,Environmentally Sustainable,Electricity consumption per unit of output - water,MWh/ML,2022,,1.88
-Performance Summary,Environmentally Sustainable,Electricity consumption per unit of output - water,MWh/ML,2021,,2.26
-Performance Summary,Environmentally Sustainable,Electricity consumption per unit of output - wastewater,MWh/ML,2025,0.85,0.80
-Performance Summary,Environmentally Sustainable,Electricity consumption per unit of output - wastewater,MWh/ML,2024,,0.76
-Performance Summary,Environmentally Sustainable,Electricity consumption per unit of output - wastewater,MWh/ML,2023,,0.81
-Performance Summary,Environmentally Sustainable,Electricity consumption per unit of output - wastewater,MWh/ML,2022,,0.81
-Performance Summary,Environmentally Sustainable,Electricity consumption per unit of output - wastewater,MWh/ML,2021,,0.82
-Performance Summary,Environmentally Sustainable,Total energy consumption,TJ,2025,,4390
-Performance Summary,Environmentally Sustainable,Total energy consumption,TJ,2024,,4024
-Performance Summary,Environmentally Sustainable,Total energy consumption,TJ,2023,,3461
-Performance Summary,Environmentally Sustainable,Total energy consumption,TJ,2022,,3559
-Performance Summary,Environmentally Sustainable,Total energy consumption,TJ,2021,,4148
-Performance Summary,Environmentally Sustainable,Reported greenhouse gas emissions (CO2 equivalent),kT,2025,568,578
-Performance Summary,Environmentally Sustainable,Reported greenhouse gas emissions (CO2 equivalent),kT,2024,,545
-Performance Summary,Environmentally Sustainable,Reported greenhouse gas emissions (CO2 equivalent),kT,2023,,450
-Performance Summary,Environmentally Sustainable,Reported greenhouse gas emissions (CO2 equivalent),kT,2022,,645
-Performance Summary,Environmentally Sustainable,Reported greenhouse gas emissions (CO2 equivalent),kT,2021,,760
-Performance Summary,Environmentally Sustainable,Biosolids re-use (Perth metro),%,2025,100,100
-Performance Summary,Environmentally Sustainable,Biosolids re-use (Perth metro),%,2024,,100
-Performance Summary,Environmentally Sustainable,Biosolids re-use (Perth metro),%,2023,,99.8
-Performance Summary,Environmentally Sustainable,Biosolids re-use (Perth metro),%,2022,,100
-Performance Summary,Environmentally Sustainable,Biosolids re-use (Perth metro),%,2021,,100
-Performance Summary,Environmentally Sustainable,Number of legal sanctions for environmental breaches,No.,2025,0,0
-Performance Summary,Environmentally Sustainable,Number of legal sanctions for environmental breaches,No.,2024,,0
-Performance Summary,Environmentally Sustainable,Number of legal sanctions for environmental breaches,No.,2023,,0
-Performance Summary,Environmentally Sustainable,Number of legal sanctions for environmental breaches,No.,2022,,0
-Performance Summary,Environmentally Sustainable,Number of legal sanctions for environmental breaches,No.,2021,,0
-Performance Summary,Environmentally Sustainable,Environment non-compliances addressed,%,2025,95.0,92.2
-Performance Summary,Environmentally Sustainable,Environment non-compliances addressed,%,2024,,96.3
-Performance Summary,Environmentally Sustainable,Environment non-compliances addressed,%,2023,,96.4
-Performance Summary,Environmentally Sustainable,Environment non-compliances addressed,%,2022,,96.9
-Performance Summary,Environmentally Sustainable,Environment non-compliances addressed,%,2021,,94.5
-Performance Summary,Satisfied Customers,Continuity - properties not affected by interruption > 1hr,%,2025,75.0,64.0
-Performance Summary,Satisfied Customers,Continuity - properties not affected by interruption > 1hr,%,2024,,64.2
-Performance Summary,Satisfied Customers,Continuity - properties not affected by interruption > 1hr,%,2023,,64.2
-Performance Summary,Satisfied Customers,Continuity - properties not affected by interruption > 1hr,%,2022,,71.1
-Performance Summary,Satisfied Customers,Continuity - properties not affected by interruption > 1hr,%,2021,,72.4
-Performance Summary,Satisfied Customers,Water pressure and flow standards,%,2025,99.80,99.95
-Performance Summary,Satisfied Customers,Water pressure and flow standards,%,2024,,99.95
-Performance Summary,Satisfied Customers,Water pressure and flow standards,%,2023,,99.95
-Performance Summary,Satisfied Customers,Water pressure and flow standards,%,2022,,99.96
-Performance Summary,Satisfied Customers,Water pressure and flow standards,%,2021,,99.96
-Performance Summary,Satisfied Customers,Installation of new water connections,%,2025,90.0,98.5
-Performance Summary,Satisfied Customers,Installation of new water connections,%,2024,,96.3
-Performance Summary,Satisfied Customers,Installation of new water connections,%,2023,,89.9
-Performance Summary,Satisfied Customers,Installation of new water connections,%,2022,,95.9
-Performance Summary,Satisfied Customers,Installation of new water connections,%,2021,,97.9
-Performance Summary,Satisfied Customers,Properties without wastewater overflow,%,2025,99.80,99.92
-Performance Summary,Satisfied Customers,Properties without wastewater overflow,%,2024,,99.93
-Performance Summary,Satisfied Customers,Properties without wastewater overflow,%,2023,,99.95
-Performance Summary,Satisfied Customers,Properties without wastewater overflow,%,2022,,99.94
-Performance Summary,Satisfied Customers,Properties without wastewater overflow,%,2021,,99.88
-Performance Summary,Satisfied Customers,Water supplied per capita - Perth metro,kL,2025,127,127
-Performance Summary,Satisfied Customers,Water supplied per capita - Perth metro,kL,2024,,132
-Performance Summary,Satisfied Customers,Water supplied per capita - Perth metro,kL,2023,,126
-Performance Summary,Satisfied Customers,Water supplied per capita - Perth metro,kL,2022,,130
-Performance Summary,Satisfied Customers,Water supplied per capita - Perth metro,kL,2021,,125
-Performance Summary,Satisfied Customers,Blockages per 100km of sewer,No.,2025,40.0,13.8
-Performance Summary,Satisfied Customers,Blockages per 100km of sewer,No.,2024,,15.0
-Performance Summary,Satisfied Customers,Blockages per 100km of sewer,No.,2023,,12.3
-Performance Summary,Satisfied Customers,Blockages per 100km of sewer,No.,2022,,12.9
-Performance Summary,Satisfied Customers,Blockages per 100km of sewer,No.,2021,,15.8
-Performance Summary,Satisfied Customers,Leaks and bursts per 100km of main,No.,2025,20.0,15.9
-Performance Summary,Satisfied Customers,Leaks and bursts per 100km of main,No.,2024,,15.3
-Performance Summary,Satisfied Customers,Leaks and bursts per 100km of main,No.,2023,,14.3
-Performance Summary,Satisfied Customers,Leaks and bursts per 100km of main,No.,2022,,13.6
-Performance Summary,Satisfied Customers,Leaks and bursts per 100km of main,No.,2021,,14.2
-Performance Summary,Satisfied Customers,Drainage systems operating in accordance with guidelines,%,2025,100,100
-Performance Summary,Satisfied Customers,Drainage systems operating in accordance with guidelines,%,2024,,100
-Performance Summary,Satisfied Customers,Drainage systems operating in accordance with guidelines,%,2023,,100
-Performance Summary,Satisfied Customers,Drainage systems operating in accordance with guidelines,%,2022,,100
-Performance Summary,Satisfied Customers,Drainage systems operating in accordance with guidelines,%,2021,,100
-Performance Summary,Satisfied Customers,Complaints per 1000 properties,No.,2025,0.4,0.2
-Performance Summary,Satisfied Customers,Complaints per 1000 properties,No.,2024,,0.1
-Performance Summary,Satisfied Customers,Complaints per 1000 properties,No.,2023,,0.1
-Performance Summary,Satisfied Customers,Complaints per 1000 properties,No.,2022,,0.1
-Performance Summary,Satisfied Customers,Complaints per 1000 properties,No.,2021,,0.1
-Performance Summary,Supporting State Development,Employee initiated turnover,%,2025,10.0,7.8
-Performance Summary,Supporting State Development,Employee initiated turnover,%,2024,,8.3
-Performance Summary,Supporting State Development,Employee initiated turnover,%,2023,,10.3
-Performance Summary,Supporting State Development,Employee initiated turnover,%,2022,,9.7
-Performance Summary,Supporting State Development,Employee initiated turnover,%,2021,,5.5
-Performance Summary,Supporting State Development,Women in senior management - tier 2,%,2025,42.0,71.4
-Performance Summary,Supporting State Development,Women in senior management - tier 2,%,2024,,71.4
-Performance Summary,Supporting State Development,Women in senior management - tier 2,%,2023,,50.0
-Performance Summary,Supporting State Development,Women in senior management - tier 2,%,2022,,33.3
-Performance Summary,Supporting State Development,Women in senior management - tier 2,%,2021,,42.9
-Performance Summary,Supporting State Development,Women in senior management - tier 3,%,2025,42.0,39.5
-Performance Summary,Supporting State Development,Women in senior management - tier 3,%,2024,,38.5
-Performance Summary,Supporting State Development,Women in senior management - tier 3,%,2023,,33.3
-Performance Summary,Supporting State Development,Women in senior management - tier 3,%,2022,,28.6
-Performance Summary,Supporting State Development,Women in senior management - tier 3,%,2021,,26.5
-Performance Summary,Supporting State Development,People from culturally diverse backgrounds,%,2025,15.5,14.0
-Performance Summary,Supporting State Development,People from culturally diverse backgrounds,%,2024,,13.8
-Performance Summary,Supporting State Development,People from culturally diverse backgrounds,%,2023,,13.2
-Performance Summary,Supporting State Development,People from culturally diverse backgrounds,%,2022,,12.6
-Performance Summary,Supporting State Development,People from culturally diverse backgrounds,%,2021,,12.3
-Performance Summary,Supporting State Development,Indigenous Australians,%,2025,7.0,4.7
-Performance Summary,Supporting State Development,Indigenous Australians,%,2024,,4.9
-Performance Summary,Supporting State Development,Indigenous Australians,%,2023,,5.2
-Performance Summary,Supporting State Development,Indigenous Australians,%,2022,,5.3
-Performance Summary,Supporting State Development,Indigenous Australians,%,2021,,4.8
-Performance Summary,Supporting State Development,People with disabilities,%,2025,5.0,1.7
-Performance Summary,Supporting State Development,People with disabilities,%,2024,,1.4
-Performance Summary,Supporting State Development,People with disabilities,%,2023,,1.6
-Performance Summary,Supporting State Development,People with disabilities,%,2022,,1.6
-Performance Summary,Supporting State Development,People with disabilities,%,2021,,1.7
-Performance Summary,Supporting State Development,Youth (15-24),%,2025,5.8,4.6
-Performance Summary,Supporting State Development,Youth (15-24),%,2024,,5.2
-Performance Summary,Supporting State Development,Youth (15-24),%,2023,,5.4
-Performance Summary,Supporting State Development,Youth (15-24),%,2022,,4.7
-Performance Summary,Supporting State Development,Youth (15-24),%,2021,,3.8
-Performance Summary,Supporting State Development,Total Recordable Injury Frequency Rate (TRIFR),No.,2025,3.0,4.7
-Performance Summary,Supporting State Development,Total Recordable Injury Frequency Rate (TRIFR),No.,2024,,5.6
-Performance Summary,Supporting State Development,Total Recordable Injury Frequency Rate (TRIFR),No.,2023,,4.5
-Performance Summary,Supporting State Development,Total Recordable Injury Frequency Rate (TRIFR),No.,2022,,3.8
-Performance Summary,Supporting State Development,Total Recordable Injury Frequency Rate (TRIFR),No.,2021,,4.5
-Financial Highlights,Financial Highlights,Total revenue,$bn,2025,,3.7
-Financial Highlights,Financial Highlights,Operating surplus,$bn,2025,,1.1
-Financial Highlights,Financial Highlights,Capital investment,$bn,2025,,1.4
-Financial Highlights,Financial Highlights,Net operating revenue increase,%,2025,,2.4
-Financial Highlights,Financial Highlights,Total expenditure increase,%,2025,,2.9
-Financial Highlights,Financial Highlights,Operating cost per property increase,%,2025,,5.6
-Financial Highlights,Financial Highlights,Total cost per property increase,%,2025,,3.3
-Financial Highlights,Financial Highlights,ASDP capital investment,$m,2025,,465.3
-Financial Highlights,Financial Highlights,Wastewater business investment,$m,2025,,339.4
-Financial Highlights,Financial Highlights,Regional assets value,$bn,2025,,9.2
-Financial Highlights,Financial Highlights,Regional major project investment,$m,2025,,255.4
-Financial Highlights,Financial Highlights,Net accrual to government,$m,2025,,-127.4
-Financial Highlights,Financial Highlights,Land developer contributions (total),$m,2025,,335.6
-Financial Highlights,Financial Highlights,Land developer contributions (cash),$m,2025,,206.1
-Financial Highlights,Financial Highlights,Land developer contributions (physical assets),$m,2025,,129.5
+section,category,metric,unit,year,target,value,sa_water_2025
+Five-Year Statistical Summary,Financial Data,Total revenue,$'000,2025,,3778316,1767652
+Five-Year Statistical Summary,Financial Data,Total revenue,$'000,2024,,3624338,
+Five-Year Statistical Summary,Financial Data,Total revenue,$'000,2023,,3310491,
+Five-Year Statistical Summary,Financial Data,Total revenue,$'000,2022,,3061511,
+Five-Year Statistical Summary,Financial Data,Total revenue,$'000,2021,,2948499,
+Five-Year Statistical Summary,Financial Data,Operating subsidy,$'000,2025,,596630,146265
+Five-Year Statistical Summary,Financial Data,Operating subsidy,$'000,2024,,605817,
+Five-Year Statistical Summary,Financial Data,Operating subsidy,$'000,2023,,614473,
+Five-Year Statistical Summary,Financial Data,Operating subsidy,$'000,2022,,519186,
+Five-Year Statistical Summary,Financial Data,Operating subsidy,$'000,2021,,468579,
+Five-Year Statistical Summary,Financial Data,Direct operating expenses,$'000,2025,,1376748,937462
+Five-Year Statistical Summary,Financial Data,Direct operating expenses,$'000,2024,,1311780,
+Five-Year Statistical Summary,Financial Data,Direct operating expenses,$'000,2023,,1181910,
+Five-Year Statistical Summary,Financial Data,Direct operating expenses,$'000,2022,,1093631,
+Five-Year Statistical Summary,Financial Data,Direct operating expenses,$'000,2021,,1021878,
+Five-Year Statistical Summary,Financial Data,Depreciation / amortisation,$'000,2025,,590879,281650
+Five-Year Statistical Summary,Financial Data,Depreciation / amortisation,$'000,2024,,579115,
+Five-Year Statistical Summary,Financial Data,Depreciation / amortisation,$'000,2023,,558627,
+Five-Year Statistical Summary,Financial Data,Depreciation / amortisation,$'000,2022,,532766,
+Five-Year Statistical Summary,Financial Data,Depreciation / amortisation,$'000,2021,,521427,
+Five-Year Statistical Summary,Financial Data,Net interest expense,$'000,2025,,130797,359861
+Five-Year Statistical Summary,Financial Data,Net interest expense,$'000,2024,,166858,
+Five-Year Statistical Summary,Financial Data,Net interest expense,$'000,2023,,186879,
+Five-Year Statistical Summary,Financial Data,Net interest expense,$'000,2022,,168685,
+Five-Year Statistical Summary,Financial Data,Net interest expense,$'000,2021,,181180,
+Five-Year Statistical Summary,Financial Data,Income tax expense,$'000,2025,,484790,54873
+Five-Year Statistical Summary,Financial Data,Income tax expense,$'000,2024,,455329,
+Five-Year Statistical Summary,Financial Data,Income tax expense,$'000,2023,,402064,
+Five-Year Statistical Summary,Financial Data,Income tax expense,$'000,2022,,376646,
+Five-Year Statistical Summary,Financial Data,Income tax expense,$'000,2021,,359077,
+Five-Year Statistical Summary,Financial Data,Operating surplus after tax,$'000,2025,,1125960,135115
+Five-Year Statistical Summary,Financial Data,Operating surplus after tax,$'000,2024,,1059694,
+Five-Year Statistical Summary,Financial Data,Operating surplus after tax,$'000,2023,,946778,
+Five-Year Statistical Summary,Financial Data,Operating surplus after tax,$'000,2022,,878513,
+Five-Year Statistical Summary,Financial Data,Operating surplus after tax,$'000,2021,,844996,
+Five-Year Statistical Summary,Financial Data,Non-current borrowings,$'000,2025,,4495528,8173855
+Five-Year Statistical Summary,Financial Data,Non-current borrowings,$'000,2024,,4605724,
+Five-Year Statistical Summary,Financial Data,Non-current borrowings,$'000,2023,,5068418,
+Five-Year Statistical Summary,Financial Data,Non-current borrowings,$'000,2022,,5644394,
+Five-Year Statistical Summary,Financial Data,Non-current borrowings,$'000,2021,,6003994,
+Five-Year Statistical Summary,Financial Data,New works investment (excl. developer take-over works),$'000,2025,,1424591,799900
+Five-Year Statistical Summary,Financial Data,New works investment (excl. developer take-over works),$'000,2024,,988293,
+Five-Year Statistical Summary,Financial Data,New works investment (excl. developer take-over works),$'000,2023,,744992,
+Five-Year Statistical Summary,Financial Data,New works investment (excl. developer take-over works),$'000,2022,,648015,
+Five-Year Statistical Summary,Financial Data,New works investment (excl. developer take-over works),$'000,2021,,652341,
+Five-Year Statistical Summary,Financial Data,Current borrowings,$'000,2025,,20474,43842
+Five-Year Statistical Summary,Financial Data,Current borrowings,$'000,2024,,18499,
+Five-Year Statistical Summary,Financial Data,Current borrowings,$'000,2023,,9995,
+Five-Year Statistical Summary,Financial Data,Current borrowings,$'000,2022,,17024,
+Five-Year Statistical Summary,Financial Data,Current borrowings,$'000,2021,,17539,
+Five-Year Statistical Summary,Financial Data,New borrowings,$'000,2025,,-97175,461244
+Five-Year Statistical Summary,Financial Data,New borrowings,$'000,2024,,-638700,
+Five-Year Statistical Summary,Financial Data,New borrowings,$'000,2023,,-388700,
+Five-Year Statistical Summary,Financial Data,New borrowings,$'000,2022,,-356604,
+Five-Year Statistical Summary,Financial Data,New borrowings,$'000,2021,,-194350,
+Five-Year Statistical Summary,Operating Data - Water Supply,Annual volume of water supplied,ML,2025,,424090,277000
+Five-Year Statistical Summary,Operating Data - Water Supply,Annual volume of water supplied,ML,2024,,426811,
+Five-Year Statistical Summary,Operating Data - Water Supply,Annual volume of water supplied,ML,2023,,386789,
+Five-Year Statistical Summary,Operating Data - Water Supply,Annual volume of water supplied,ML,2022,,387975,
+Five-Year Statistical Summary,Operating Data - Water Supply,Annual volume of water supplied,ML,2021,,374202,
+Five-Year Statistical Summary,Operating Data - Water Supply,Number of properties served (water),No.,2025,,1399952,756505
+Five-Year Statistical Summary,Operating Data - Water Supply,Number of properties served (water),No.,2024,,1378861,
+Five-Year Statistical Summary,Operating Data - Water Supply,Number of properties served (water),No.,2023,,1365217,
+Five-Year Statistical Summary,Operating Data - Water Supply,Number of properties served (water),No.,2022,,1350688,
+Five-Year Statistical Summary,Operating Data - Water Supply,Number of properties served (water),No.,2021,,1338298,
+Five-Year Statistical Summary,Operating Data - Water Supply,Number of properties connected (water),No.,2025,,1213819,
+Five-Year Statistical Summary,Operating Data - Water Supply,Number of properties connected (water),No.,2024,,1195269,
+Five-Year Statistical Summary,Operating Data - Water Supply,Number of properties connected (water),No.,2023,,1181035,
+Five-Year Statistical Summary,Operating Data - Water Supply,Number of properties connected (water),No.,2022,,1167415,
+Five-Year Statistical Summary,Operating Data - Water Supply,Number of properties connected (water),No.,2021,,1154501,
+Five-Year Statistical Summary,Operating Data - Water Supply,Length of mains,km,2025,,35500,27541
+Five-Year Statistical Summary,Operating Data - Water Supply,Length of mains,km,2024,,35288,
+Five-Year Statistical Summary,Operating Data - Water Supply,Length of mains,km,2023,,35122,
+Five-Year Statistical Summary,Operating Data - Water Supply,Length of mains,km,2022,,34917,
+Five-Year Statistical Summary,Operating Data - Water Supply,Length of mains,km,2021,,34947,
+Five-Year Statistical Summary,Operating Data - Wastewater,Average volume of wastewater treated daily,ML,2025,,502,
+Five-Year Statistical Summary,Operating Data - Wastewater,Average volume of wastewater treated daily,ML,2024,,491,
+Five-Year Statistical Summary,Operating Data - Wastewater,Average volume of wastewater treated daily,ML,2023,,486,
+Five-Year Statistical Summary,Operating Data - Wastewater,Average volume of wastewater treated daily,ML,2022,,480,
+Five-Year Statistical Summary,Operating Data - Wastewater,Average volume of wastewater treated daily,ML,2021,,466,
+Five-Year Statistical Summary,Operating Data - Wastewater,Number of properties served (wastewater),No.,2025,,1144814,756505
+Five-Year Statistical Summary,Operating Data - Wastewater,Number of properties served (wastewater),No.,2024,,1126800,
+Five-Year Statistical Summary,Operating Data - Wastewater,Number of properties served (wastewater),No.,2023,,1114625,
+Five-Year Statistical Summary,Operating Data - Wastewater,Number of properties served (wastewater),No.,2022,,1103173,
+Five-Year Statistical Summary,Operating Data - Wastewater,Number of properties served (wastewater),No.,2021,,1091581,
+Five-Year Statistical Summary,Operating Data - Wastewater,Number of properties connected (wastewater),No.,2025,,1066474,
+Five-Year Statistical Summary,Operating Data - Wastewater,Number of properties connected (wastewater),No.,2024,,1047551,
+Five-Year Statistical Summary,Operating Data - Wastewater,Number of properties connected (wastewater),No.,2023,,1032236,
+Five-Year Statistical Summary,Operating Data - Wastewater,Number of properties connected (wastewater),No.,2022,,1021436,
+Five-Year Statistical Summary,Operating Data - Wastewater,Number of properties connected (wastewater),No.,2021,,1011665,
+Five-Year Statistical Summary,Operating Data - Wastewater,Length of sewers,km,2025,,18107,
+Five-Year Statistical Summary,Operating Data - Wastewater,Length of sewers,km,2024,,17904,
+Five-Year Statistical Summary,Operating Data - Wastewater,Length of sewers,km,2023,,17701,
+Five-Year Statistical Summary,Operating Data - Wastewater,Length of sewers,km,2022,,17526,
+Five-Year Statistical Summary,Operating Data - Wastewater,Length of sewers,km,2021,,17397,
+Five-Year Statistical Summary,Operating Data - Drainage,Number of properties served - metropolitan drainage,No.,2025,,442391,
+Five-Year Statistical Summary,Operating Data - Drainage,Number of properties served - metropolitan drainage,No.,2024,,437609,
+Five-Year Statistical Summary,Operating Data - Drainage,Number of properties served - metropolitan drainage,No.,2023,,434287,
+Five-Year Statistical Summary,Operating Data - Drainage,Number of properties served - metropolitan drainage,No.,2022,,430082,
+Five-Year Statistical Summary,Operating Data - Drainage,Number of properties served - metropolitan drainage,No.,2021,,426592,
+Five-Year Statistical Summary,Operating Data - Drainage,Length of drains,km,2025,,2538,
+Five-Year Statistical Summary,Operating Data - Drainage,Length of drains,km,2024,,2538,
+Five-Year Statistical Summary,Operating Data - Drainage,Length of drains,km,2023,,2539,
+Five-Year Statistical Summary,Operating Data - Drainage,Length of drains,km,2022,,2539,
+Five-Year Statistical Summary,Operating Data - Drainage,Length of drains,km,2021,,2539,
+Five-Year Statistical Summary,Operating Data - Irrigation,Volume of water delivered,ML,2025,,5469,
+Five-Year Statistical Summary,Operating Data - Irrigation,Volume of water delivered,ML,2024,,6082,
+Five-Year Statistical Summary,Operating Data - Irrigation,Volume of water delivered,ML,2023,,5941,
+Five-Year Statistical Summary,Operating Data - Irrigation,Volume of water delivered,ML,2022,,6057,
+Five-Year Statistical Summary,Operating Data - Irrigation,Volume of water delivered,ML,2021,,5539,
+Five-Year Statistical Summary,Operating Data - Employees,Total number of employees,No.,2025,,4296,
+Five-Year Statistical Summary,Operating Data - Employees,Total number of employees,No.,2024,,4212,
+Five-Year Statistical Summary,Operating Data - Employees,Total number of employees,No.,2023,,4043,
+Five-Year Statistical Summary,Operating Data - Employees,Total number of employees,No.,2022,,3822,
+Five-Year Statistical Summary,Operating Data - Employees,Total number of employees,No.,2021,,3662,
+Five-Year Statistical Summary,Operating Data - Employees,Total number of full-time equivalents (FTEs),No.,2025,,4155,
+Five-Year Statistical Summary,Operating Data - Employees,Total number of full-time equivalents (FTEs),No.,2024,,4019,
+Five-Year Statistical Summary,Operating Data - Employees,Total number of full-time equivalents (FTEs),No.,2023,,3843,
+Five-Year Statistical Summary,Operating Data - Employees,Total number of full-time equivalents (FTEs),No.,2022,,3627,
+Five-Year Statistical Summary,Operating Data - Employees,Total number of full-time equivalents (FTEs),No.,2021,,3499,
+Five-Year Statistical Summary,Operating Data - Employees,Total number of FTEs (year-end average),No.,2025,,4148,
+Five-Year Statistical Summary,Operating Data - Employees,Total number of FTEs (year-end average),No.,2024,,3943,
+Five-Year Statistical Summary,Operating Data - Employees,Total number of FTEs (year-end average),No.,2023,,3727,
+Five-Year Statistical Summary,Operating Data - Employees,Total number of FTEs (year-end average),No.,2022,,3583,
+Five-Year Statistical Summary,Operating Data - Employees,Total number of FTEs (year-end average),No.,2021,,3421,
+Performance Summary,Safe for All,Metro localities meeting E.coli requirements,%,2025,100,100,100
+Performance Summary,Safe for All,Metro localities meeting E.coli requirements,%,2024,,100,
+Performance Summary,Safe for All,Metro localities meeting E.coli requirements,%,2023,,96,
+Performance Summary,Safe for All,Metro localities meeting E.coli requirements,%,2022,,100,
+Performance Summary,Safe for All,Metro localities meeting E.coli requirements,%,2021,,100,
+Performance Summary,Safe for All,Metro localities meeting amoebae requirements,%,2025,100,100,
+Performance Summary,Safe for All,Metro localities meeting amoebae requirements,%,2024,,100,
+Performance Summary,Safe for All,Metro localities meeting amoebae requirements,%,2023,,100,
+Performance Summary,Safe for All,Metro localities meeting amoebae requirements,%,2022,,100,
+Performance Summary,Safe for All,Metro localities meeting amoebae requirements,%,2021,,100,
+Performance Summary,Safe for All,Metro localities meeting health-related chemical quality,%,2025,100,100,100
+Performance Summary,Safe for All,Metro localities meeting health-related chemical quality,%,2024,,100,
+Performance Summary,Safe for All,Metro localities meeting health-related chemical quality,%,2023,,100,
+Performance Summary,Safe for All,Metro localities meeting health-related chemical quality,%,2022,,100,
+Performance Summary,Safe for All,Metro localities meeting health-related chemical quality,%,2021,,100,
+Performance Summary,Safe for All,Metro localities meeting radiological performance,%,2025,100,100,
+Performance Summary,Safe for All,Metro localities meeting radiological performance,%,2024,,100,
+Performance Summary,Safe for All,Metro localities meeting radiological performance,%,2023,,100,
+Performance Summary,Safe for All,Metro localities meeting radiological performance,%,2022,,100,
+Performance Summary,Safe for All,Metro localities meeting radiological performance,%,2021,,100,
+Performance Summary,Safe for All,Country localities meeting E.coli requirements,%,2025,100,100,100
+Performance Summary,Safe for All,Country localities meeting E.coli requirements,%,2024,,99.55,
+Performance Summary,Safe for All,Country localities meeting E.coli requirements,%,2023,,100,
+Performance Summary,Safe for All,Country localities meeting E.coli requirements,%,2022,,100,
+Performance Summary,Safe for All,Country localities meeting E.coli requirements,%,2021,,100,
+Performance Summary,Safe for All,Country localities meeting amoebae requirements,%,2025,100,99.55,
+Performance Summary,Safe for All,Country localities meeting amoebae requirements,%,2024,,100,
+Performance Summary,Safe for All,Country localities meeting amoebae requirements,%,2023,,100,
+Performance Summary,Safe for All,Country localities meeting amoebae requirements,%,2022,,100,
+Performance Summary,Safe for All,Country localities meeting amoebae requirements,%,2021,,100,
+Performance Summary,Safe for All,Country localities meeting health-related chemical quality,%,2025,100,100,99.99
+Performance Summary,Safe for All,Country localities meeting health-related chemical quality,%,2024,,100,
+Performance Summary,Safe for All,Country localities meeting health-related chemical quality,%,2023,,100,
+Performance Summary,Safe for All,Country localities meeting health-related chemical quality,%,2022,,100,
+Performance Summary,Safe for All,Country localities meeting health-related chemical quality,%,2021,,100,
+Performance Summary,Safe for All,Country localities meeting radiological performance,%,2025,100,99.19,
+Performance Summary,Safe for All,Country localities meeting radiological performance,%,2024,,99.08,
+Performance Summary,Safe for All,Country localities meeting radiological performance,%,2023,,99,
+Performance Summary,Safe for All,Country localities meeting radiological performance,%,2022,,100,
+Performance Summary,Safe for All,Country localities meeting radiological performance,%,2021,,100,
+Performance Summary,Efficient,Operating cost per property,$,2025,1045.3,1092.6,1239
+Performance Summary,Efficient,Operating cost per property,$,2024,,1050.9,
+Performance Summary,Efficient,Operating cost per property,$,2023,,960.5,
+Performance Summary,Efficient,Operating cost per property,$,2022,,908.1,
+Performance Summary,Efficient,Operating cost per property,$,2021,,807.8,
+Performance Summary,Efficient,Total cost per property,$,2025,2412,2465,2160
+Performance Summary,Efficient,Total cost per property,$,2024,,2380,
+Performance Summary,Efficient,Total cost per property,$,2023,,2229,
+Performance Summary,Efficient,Total cost per property,$,2022,,2076,
+Performance Summary,Efficient,Total cost per property,$,2021,,2028,
+Performance Summary,Efficient,Surplus before income tax equivalent,$m,2025,1594,1611,190.0
+Performance Summary,Efficient,Surplus before income tax equivalent,$m,2024,,1515,
+Performance Summary,Efficient,Surplus before income tax equivalent,$m,2023,,1349,
+Performance Summary,Efficient,Surplus before income tax equivalent,$m,2022,,1255,
+Performance Summary,Efficient,Surplus before income tax equivalent,$m,2021,,1253,
+Performance Summary,Efficient,Return on assets,%,2025,5.7,5.7,4.6
+Performance Summary,Efficient,Return on assets,%,2024,,6.2,
+Performance Summary,Efficient,Return on assets,%,2023,,6.4,
+Performance Summary,Efficient,Return on assets,%,2022,,7.0,
+Performance Summary,Efficient,Return on assets,%,2021,,6.8,
+Performance Summary,Efficient,Return on equity,%,2025,7.5,7.3,4.8
+Performance Summary,Efficient,Return on equity,%,2024,,7.5,
+Performance Summary,Efficient,Return on equity,%,2023,,7.2,
+Performance Summary,Efficient,Return on equity,%,2022,,7.2,
+Performance Summary,Efficient,Return on equity,%,2021,,7.3,
+Performance Summary,Efficient,Interest cover,Times,2025,8.1,7.8,1.5
+Performance Summary,Efficient,Interest cover,Times,2024,,7.3,
+Performance Summary,Efficient,Interest cover,Times,2023,,6.7,
+Performance Summary,Efficient,Interest cover,Times,2022,,7.7,
+Performance Summary,Efficient,Interest cover,Times,2021,,6.7,
+Performance Summary,Efficient,Debt to Total Assets,%,2025,25.3,21.0,66.6
+Performance Summary,Efficient,Debt to Total Assets,%,2024,,22.8,
+Performance Summary,Efficient,Debt to Total Assets,%,2023,,26.9,
+Performance Summary,Efficient,Debt to Total Assets,%,2022,,29.8,
+Performance Summary,Efficient,Debt to Total Assets,%,2021,,32.6,
+Performance Summary,Environmentally Sustainable,Overflows to Swan-Canning - conveyance system,No.,2025,0,0,
+Performance Summary,Environmentally Sustainable,Overflows to Swan-Canning - conveyance system,No.,2024,,2,
+Performance Summary,Environmentally Sustainable,Overflows to Swan-Canning - conveyance system,No.,2023,,5,
+Performance Summary,Environmentally Sustainable,Overflows to Swan-Canning - conveyance system,No.,2022,,3,
+Performance Summary,Environmentally Sustainable,Overflows to Swan-Canning - conveyance system,No.,2021,,0,
+Performance Summary,Environmentally Sustainable,Overflows to Swan-Canning - pump stations only,No.,2025,0,0,
+Performance Summary,Environmentally Sustainable,Overflows to Swan-Canning - pump stations only,No.,2024,,6,
+Performance Summary,Environmentally Sustainable,Overflows to Swan-Canning - pump stations only,No.,2023,,1,
+Performance Summary,Environmentally Sustainable,Overflows to Swan-Canning - pump stations only,No.,2022,,1,
+Performance Summary,Environmentally Sustainable,Overflows to Swan-Canning - pump stations only,No.,2021,,0,
+Performance Summary,Environmentally Sustainable,Electricity consumption per unit of output - water,MWh/ML,2025,2.15,2.03,
+Performance Summary,Environmentally Sustainable,Electricity consumption per unit of output - water,MWh/ML,2024,,1.77,
+Performance Summary,Environmentally Sustainable,Electricity consumption per unit of output - water,MWh/ML,2023,,1.60,
+Performance Summary,Environmentally Sustainable,Electricity consumption per unit of output - water,MWh/ML,2022,,1.88,
+Performance Summary,Environmentally Sustainable,Electricity consumption per unit of output - water,MWh/ML,2021,,2.26,
+Performance Summary,Environmentally Sustainable,Electricity consumption per unit of output - wastewater,MWh/ML,2025,0.85,0.80,
+Performance Summary,Environmentally Sustainable,Electricity consumption per unit of output - wastewater,MWh/ML,2024,,0.76,
+Performance Summary,Environmentally Sustainable,Electricity consumption per unit of output - wastewater,MWh/ML,2023,,0.81,
+Performance Summary,Environmentally Sustainable,Electricity consumption per unit of output - wastewater,MWh/ML,2022,,0.81,
+Performance Summary,Environmentally Sustainable,Electricity consumption per unit of output - wastewater,MWh/ML,2021,,0.82,
+Performance Summary,Environmentally Sustainable,Total energy consumption,TJ,2025,,4390,
+Performance Summary,Environmentally Sustainable,Total energy consumption,TJ,2024,,4024,
+Performance Summary,Environmentally Sustainable,Total energy consumption,TJ,2023,,3461,
+Performance Summary,Environmentally Sustainable,Total energy consumption,TJ,2022,,3559,
+Performance Summary,Environmentally Sustainable,Total energy consumption,TJ,2021,,4148,
+Performance Summary,Environmentally Sustainable,Reported greenhouse gas emissions (CO2 equivalent),kT,2025,568,578,
+Performance Summary,Environmentally Sustainable,Reported greenhouse gas emissions (CO2 equivalent),kT,2024,,545,
+Performance Summary,Environmentally Sustainable,Reported greenhouse gas emissions (CO2 equivalent),kT,2023,,450,
+Performance Summary,Environmentally Sustainable,Reported greenhouse gas emissions (CO2 equivalent),kT,2022,,645,
+Performance Summary,Environmentally Sustainable,Reported greenhouse gas emissions (CO2 equivalent),kT,2021,,760,
+Performance Summary,Environmentally Sustainable,Biosolids re-use (Perth metro),%,2025,100,100,100
+Performance Summary,Environmentally Sustainable,Biosolids re-use (Perth metro),%,2024,,100,
+Performance Summary,Environmentally Sustainable,Biosolids re-use (Perth metro),%,2023,,99.8,
+Performance Summary,Environmentally Sustainable,Biosolids re-use (Perth metro),%,2022,,100,
+Performance Summary,Environmentally Sustainable,Biosolids re-use (Perth metro),%,2021,,100,
+Performance Summary,Environmentally Sustainable,Number of legal sanctions for environmental breaches,No.,2025,0,0,0
+Performance Summary,Environmentally Sustainable,Number of legal sanctions for environmental breaches,No.,2024,,0,
+Performance Summary,Environmentally Sustainable,Number of legal sanctions for environmental breaches,No.,2023,,0,
+Performance Summary,Environmentally Sustainable,Number of legal sanctions for environmental breaches,No.,2022,,0,
+Performance Summary,Environmentally Sustainable,Number of legal sanctions for environmental breaches,No.,2021,,0,
+Performance Summary,Environmentally Sustainable,Environment non-compliances addressed,%,2025,95.0,92.2,
+Performance Summary,Environmentally Sustainable,Environment non-compliances addressed,%,2024,,96.3,
+Performance Summary,Environmentally Sustainable,Environment non-compliances addressed,%,2023,,96.4,
+Performance Summary,Environmentally Sustainable,Environment non-compliances addressed,%,2022,,96.9,
+Performance Summary,Environmentally Sustainable,Environment non-compliances addressed,%,2021,,94.5,
+Performance Summary,Satisfied Customers,Continuity - properties not affected by interruption > 1hr,%,2025,75.0,64.0,
+Performance Summary,Satisfied Customers,Continuity - properties not affected by interruption > 1hr,%,2024,,64.2,
+Performance Summary,Satisfied Customers,Continuity - properties not affected by interruption > 1hr,%,2023,,64.2,
+Performance Summary,Satisfied Customers,Continuity - properties not affected by interruption > 1hr,%,2022,,71.1,
+Performance Summary,Satisfied Customers,Continuity - properties not affected by interruption > 1hr,%,2021,,72.4,
+Performance Summary,Satisfied Customers,Water pressure and flow standards,%,2025,99.80,99.95,
+Performance Summary,Satisfied Customers,Water pressure and flow standards,%,2024,,99.95,
+Performance Summary,Satisfied Customers,Water pressure and flow standards,%,2023,,99.95,
+Performance Summary,Satisfied Customers,Water pressure and flow standards,%,2022,,99.96,
+Performance Summary,Satisfied Customers,Water pressure and flow standards,%,2021,,99.96,
+Performance Summary,Satisfied Customers,Installation of new water connections,%,2025,90.0,98.5,97
+Performance Summary,Satisfied Customers,Installation of new water connections,%,2024,,96.3,
+Performance Summary,Satisfied Customers,Installation of new water connections,%,2023,,89.9,
+Performance Summary,Satisfied Customers,Installation of new water connections,%,2022,,95.9,
+Performance Summary,Satisfied Customers,Installation of new water connections,%,2021,,97.9,
+Performance Summary,Satisfied Customers,Properties without wastewater overflow,%,2025,99.80,99.92,
+Performance Summary,Satisfied Customers,Properties without wastewater overflow,%,2024,,99.93,
+Performance Summary,Satisfied Customers,Properties without wastewater overflow,%,2023,,99.95,
+Performance Summary,Satisfied Customers,Properties without wastewater overflow,%,2022,,99.94,
+Performance Summary,Satisfied Customers,Properties without wastewater overflow,%,2021,,99.88,
+Performance Summary,Satisfied Customers,Water supplied per capita - Perth metro,kL,2025,127,127,
+Performance Summary,Satisfied Customers,Water supplied per capita - Perth metro,kL,2024,,132,
+Performance Summary,Satisfied Customers,Water supplied per capita - Perth metro,kL,2023,,126,
+Performance Summary,Satisfied Customers,Water supplied per capita - Perth metro,kL,2022,,130,
+Performance Summary,Satisfied Customers,Water supplied per capita - Perth metro,kL,2021,,125,
+Performance Summary,Satisfied Customers,Blockages per 100km of sewer,No.,2025,40.0,13.8,
+Performance Summary,Satisfied Customers,Blockages per 100km of sewer,No.,2024,,15.0,
+Performance Summary,Satisfied Customers,Blockages per 100km of sewer,No.,2023,,12.3,
+Performance Summary,Satisfied Customers,Blockages per 100km of sewer,No.,2022,,12.9,
+Performance Summary,Satisfied Customers,Blockages per 100km of sewer,No.,2021,,15.8,
+Performance Summary,Satisfied Customers,Leaks and bursts per 100km of main,No.,2025,20.0,15.9,17.3
+Performance Summary,Satisfied Customers,Leaks and bursts per 100km of main,No.,2024,,15.3,
+Performance Summary,Satisfied Customers,Leaks and bursts per 100km of main,No.,2023,,14.3,
+Performance Summary,Satisfied Customers,Leaks and bursts per 100km of main,No.,2022,,13.6,
+Performance Summary,Satisfied Customers,Leaks and bursts per 100km of main,No.,2021,,14.2,
+Performance Summary,Satisfied Customers,Drainage systems operating in accordance with guidelines,%,2025,100,100,
+Performance Summary,Satisfied Customers,Drainage systems operating in accordance with guidelines,%,2024,,100,
+Performance Summary,Satisfied Customers,Drainage systems operating in accordance with guidelines,%,2023,,100,
+Performance Summary,Satisfied Customers,Drainage systems operating in accordance with guidelines,%,2022,,100,
+Performance Summary,Satisfied Customers,Drainage systems operating in accordance with guidelines,%,2021,,100,
+Performance Summary,Satisfied Customers,Complaints per 1000 properties,No.,2025,0.4,0.2,4.3
+Performance Summary,Satisfied Customers,Complaints per 1000 properties,No.,2024,,0.1,
+Performance Summary,Satisfied Customers,Complaints per 1000 properties,No.,2023,,0.1,
+Performance Summary,Satisfied Customers,Complaints per 1000 properties,No.,2022,,0.1,
+Performance Summary,Satisfied Customers,Complaints per 1000 properties,No.,2021,,0.1,
+Performance Summary,Supporting State Development,Employee initiated turnover,%,2025,10.0,7.8,
+Performance Summary,Supporting State Development,Employee initiated turnover,%,2024,,8.3,
+Performance Summary,Supporting State Development,Employee initiated turnover,%,2023,,10.3,
+Performance Summary,Supporting State Development,Employee initiated turnover,%,2022,,9.7,
+Performance Summary,Supporting State Development,Employee initiated turnover,%,2021,,5.5,
+Performance Summary,Supporting State Development,Women in senior management - tier 2,%,2025,42.0,71.4,
+Performance Summary,Supporting State Development,Women in senior management - tier 2,%,2024,,71.4,
+Performance Summary,Supporting State Development,Women in senior management - tier 2,%,2023,,50.0,
+Performance Summary,Supporting State Development,Women in senior management - tier 2,%,2022,,33.3,
+Performance Summary,Supporting State Development,Women in senior management - tier 2,%,2021,,42.9,
+Performance Summary,Supporting State Development,Women in senior management - tier 3,%,2025,42.0,39.5,
+Performance Summary,Supporting State Development,Women in senior management - tier 3,%,2024,,38.5,
+Performance Summary,Supporting State Development,Women in senior management - tier 3,%,2023,,33.3,
+Performance Summary,Supporting State Development,Women in senior management - tier 3,%,2022,,28.6,
+Performance Summary,Supporting State Development,Women in senior management - tier 3,%,2021,,26.5,
+Performance Summary,Supporting State Development,People from culturally diverse backgrounds,%,2025,15.5,14.0,
+Performance Summary,Supporting State Development,People from culturally diverse backgrounds,%,2024,,13.8,
+Performance Summary,Supporting State Development,People from culturally diverse backgrounds,%,2023,,13.2,
+Performance Summary,Supporting State Development,People from culturally diverse backgrounds,%,2022,,12.6,
+Performance Summary,Supporting State Development,People from culturally diverse backgrounds,%,2021,,12.3,
+Performance Summary,Supporting State Development,Indigenous Australians,%,2025,7.0,4.7,1.8
+Performance Summary,Supporting State Development,Indigenous Australians,%,2024,,4.9,
+Performance Summary,Supporting State Development,Indigenous Australians,%,2023,,5.2,
+Performance Summary,Supporting State Development,Indigenous Australians,%,2022,,5.3,
+Performance Summary,Supporting State Development,Indigenous Australians,%,2021,,4.8,
+Performance Summary,Supporting State Development,People with disabilities,%,2025,5.0,1.7,
+Performance Summary,Supporting State Development,People with disabilities,%,2024,,1.4,
+Performance Summary,Supporting State Development,People with disabilities,%,2023,,1.6,
+Performance Summary,Supporting State Development,People with disabilities,%,2022,,1.6,
+Performance Summary,Supporting State Development,People with disabilities,%,2021,,1.7,
+Performance Summary,Supporting State Development,Youth (15-24),%,2025,5.8,4.6,
+Performance Summary,Supporting State Development,Youth (15-24),%,2024,,5.2,
+Performance Summary,Supporting State Development,Youth (15-24),%,2023,,5.4,
+Performance Summary,Supporting State Development,Youth (15-24),%,2022,,4.7,
+Performance Summary,Supporting State Development,Youth (15-24),%,2021,,3.8,
+Performance Summary,Supporting State Development,Total Recordable Injury Frequency Rate (TRIFR),No.,2025,3.0,4.7,10.8
+Performance Summary,Supporting State Development,Total Recordable Injury Frequency Rate (TRIFR),No.,2024,,5.6,
+Performance Summary,Supporting State Development,Total Recordable Injury Frequency Rate (TRIFR),No.,2023,,4.5,
+Performance Summary,Supporting State Development,Total Recordable Injury Frequency Rate (TRIFR),No.,2022,,3.8,
+Performance Summary,Supporting State Development,Total Recordable Injury Frequency Rate (TRIFR),No.,2021,,4.5,
+Financial Highlights,Financial Highlights,Total revenue,$bn,2025,,3.7,1.77
+Financial Highlights,Financial Highlights,Operating surplus,$bn,2025,,1.1,0.14
+Financial Highlights,Financial Highlights,Capital investment,$bn,2025,,1.4,0.80
+Financial Highlights,Financial Highlights,Net operating revenue increase,%,2025,,2.4,13.8
+Financial Highlights,Financial Highlights,Total expenditure increase,%,2025,,2.9,11.8
+Financial Highlights,Financial Highlights,Operating cost per property increase,%,2025,,5.6,
+Financial Highlights,Financial Highlights,Total cost per property increase,%,2025,,3.3,
+Financial Highlights,Financial Highlights,ASDP capital investment,$m,2025,,465.3,
+Financial Highlights,Financial Highlights,Wastewater business investment,$m,2025,,339.4,41.7
+Financial Highlights,Financial Highlights,Regional assets value,$bn,2025,,9.2,
+Financial Highlights,Financial Highlights,Regional major project investment,$m,2025,,255.4,
+Financial Highlights,Financial Highlights,Net accrual to government,$m,2025,,-127.4,
+Financial Highlights,Financial Highlights,Land developer contributions (total),$m,2025,,335.6,101.1
+Financial Highlights,Financial Highlights,Land developer contributions (cash),$m,2025,,206.1,
+Financial Highlights,Financial Highlights,Land developer contributions (physical assets),$m,2025,,129.5,
