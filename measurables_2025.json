@@ -1,0 +1,353 @@
+{
+  "source": "Water-Corporation-Annual-Report-2025.pdf",
+  "report_year": 2025,
+  "organisation": "Water Corporation of Western Australia",
+  "notes": "Data extracted from the 2024-25 Annual Report (year ended 30 June 2025). Historical columns from the Performance Summary and Five-Year Statistical Summary cover 2021-2025. The 'target' field is populated only for the 2025 reporting year where a target was stated in the report. A null target means no target was published for that year/metric.",
+  "sections": {
+    "Five-Year Statistical Summary": {
+      "description": "Financial and operational statistics for the five years ended 30 June 2025, sourced from the Five Year Statistical Summary table.",
+      "categories": {
+        "Financial Data": {
+          "unit_note": "All values in $'000 (thousands of Australian dollars) unless stated.",
+          "metrics": {
+            "Total revenue": {
+              "unit": "$'000",
+              "values": {"2025": 3778316, "2024": 3624338, "2023": 3310491, "2022": 3061511, "2021": 2948499}
+            },
+            "Operating subsidy": {
+              "unit": "$'000",
+              "values": {"2025": 596630, "2024": 605817, "2023": 614473, "2022": 519186, "2021": 468579}
+            },
+            "Direct operating expenses": {
+              "unit": "$'000",
+              "values": {"2025": 1376748, "2024": 1311780, "2023": 1181910, "2022": 1093631, "2021": 1021878}
+            },
+            "Depreciation / amortisation": {
+              "unit": "$'000",
+              "values": {"2025": 590879, "2024": 579115, "2023": 558627, "2022": 532766, "2021": 521427}
+            },
+            "Net interest expense": {
+              "unit": "$'000",
+              "values": {"2025": 130797, "2024": 166858, "2023": 186879, "2022": 168685, "2021": 181180}
+            },
+            "Income tax expense": {
+              "unit": "$'000",
+              "values": {"2025": 484790, "2024": 455329, "2023": 402064, "2022": 376646, "2021": 359077}
+            },
+            "Operating surplus after tax": {
+              "unit": "$'000",
+              "values": {"2025": 1125960, "2024": 1059694, "2023": 946778, "2022": 878513, "2021": 844996}
+            },
+            "Non-current borrowings": {
+              "unit": "$'000",
+              "values": {"2025": 4495528, "2024": 4605724, "2023": 5068418, "2022": 5644394, "2021": 6003994}
+            },
+            "New works investment (excl. developer take-over works)": {
+              "unit": "$'000",
+              "values": {"2025": 1424591, "2024": 988293, "2023": 744992, "2022": 648015, "2021": 652341}
+            },
+            "Current borrowings": {
+              "unit": "$'000",
+              "values": {"2025": 20474, "2024": 18499, "2023": 9995, "2022": 17024, "2021": 17539}
+            },
+            "New borrowings": {
+              "unit": "$'000",
+              "note": "Negative values indicate net repayment.",
+              "values": {"2025": -97175, "2024": -638700, "2023": -388700, "2022": -356604, "2021": -194350}
+            }
+          }
+        },
+        "Operating Data - Water Supply": {
+          "metrics": {
+            "Annual volume of water supplied": {
+              "unit": "ML",
+              "values": {"2025": 424090, "2024": 426811, "2023": 386789, "2022": 387975, "2021": 374202}
+            },
+            "Number of properties served (water)": {
+              "unit": "No.",
+              "values": {"2025": 1399952, "2024": 1378861, "2023": 1365217, "2022": 1350688, "2021": 1338298}
+            },
+            "Number of properties connected (water)": {
+              "unit": "No.",
+              "values": {"2025": 1213819, "2024": 1195269, "2023": 1181035, "2022": 1167415, "2021": 1154501}
+            },
+            "Length of mains": {
+              "unit": "km",
+              "values": {"2025": 35500, "2024": 35288, "2023": 35122, "2022": 34917, "2021": 34947}
+            }
+          }
+        },
+        "Operating Data - Wastewater": {
+          "metrics": {
+            "Average volume of wastewater treated daily": {
+              "unit": "ML",
+              "values": {"2025": 502, "2024": 491, "2023": 486, "2022": 480, "2021": 466}
+            },
+            "Number of properties served (wastewater)": {
+              "unit": "No.",
+              "values": {"2025": 1144814, "2024": 1126800, "2023": 1114625, "2022": 1103173, "2021": 1091581}
+            },
+            "Number of properties connected (wastewater)": {
+              "unit": "No.",
+              "values": {"2025": 1066474, "2024": 1047551, "2023": 1032236, "2022": 1021436, "2021": 1011665}
+            },
+            "Length of sewers": {
+              "unit": "km",
+              "values": {"2025": 18107, "2024": 17904, "2023": 17701, "2022": 17526, "2021": 17397}
+            }
+          }
+        },
+        "Operating Data - Drainage": {
+          "metrics": {
+            "Number of properties served - metropolitan drainage": {
+              "unit": "No.",
+              "values": {"2025": 442391, "2024": 437609, "2023": 434287, "2022": 430082, "2021": 426592}
+            },
+            "Length of drains": {
+              "unit": "km",
+              "values": {"2025": 2538, "2024": 2538, "2023": 2539, "2022": 2539, "2021": 2539}
+            }
+          }
+        },
+        "Operating Data - Irrigation": {
+          "metrics": {
+            "Volume of water delivered": {
+              "unit": "ML",
+              "values": {"2025": 5469, "2024": 6082, "2023": 5941, "2022": 6057, "2021": 5539}
+            }
+          }
+        },
+        "Operating Data - Employees": {
+          "metrics": {
+            "Total number of employees": {
+              "unit": "No.",
+              "values": {"2025": 4296, "2024": 4212, "2023": 4043, "2022": 3822, "2021": 3662}
+            },
+            "Total number of full-time equivalents (FTEs)": {
+              "unit": "No.",
+              "note": "From FY2024-25, methodology refined to include employees on unpaid leave.",
+              "values": {"2025": 4155, "2024": 4019, "2023": 3843, "2022": 3627, "2021": 3499}
+            },
+            "Total number of FTEs (year-end average)": {
+              "unit": "No.",
+              "values": {"2025": 4148, "2024": 3943, "2023": 3727, "2022": 3583, "2021": 3421}
+            }
+          }
+        }
+      }
+    },
+    "Performance Summary": {
+      "description": "KPIs measured against targets, with five years of history. The 'target' field applies to the 2025 reporting year only.",
+      "categories": {
+        "Safe for All": {
+          "subcategory": "Public Health - Safe Drinking Water",
+          "metrics": {
+            "Metro localities meeting E.coli requirements": {
+              "unit": "%", "target_2025": 100,
+              "values": {"2025": 100, "2024": 100, "2023": 96, "2022": 100, "2021": 100}
+            },
+            "Metro localities meeting amoebae requirements": {
+              "unit": "%", "target_2025": 100,
+              "values": {"2025": 100, "2024": 100, "2023": 100, "2022": 100, "2021": 100}
+            },
+            "Metro localities meeting health-related chemical quality": {
+              "unit": "%", "target_2025": 100,
+              "values": {"2025": 100, "2024": 100, "2023": 100, "2022": 100, "2021": 100}
+            },
+            "Metro localities meeting radiological performance": {
+              "unit": "%", "target_2025": 100,
+              "values": {"2025": 100, "2024": 100, "2023": 100, "2022": 100, "2021": 100}
+            },
+            "Country localities meeting E.coli requirements": {
+              "unit": "%", "target_2025": 100,
+              "values": {"2025": 100, "2024": 99.55, "2023": 100, "2022": 100, "2021": 100}
+            },
+            "Country localities meeting amoebae requirements": {
+              "unit": "%", "target_2025": 100,
+              "values": {"2025": 99.55, "2024": 100, "2023": 100, "2022": 100, "2021": 100}
+            },
+            "Country localities meeting health-related chemical quality": {
+              "unit": "%", "target_2025": 100,
+              "values": {"2025": 100, "2024": 100, "2023": 100, "2022": 100, "2021": 100}
+            },
+            "Country localities meeting radiological performance": {
+              "unit": "%", "target_2025": 100,
+              "values": {"2025": 99.19, "2024": 99.08, "2023": 99.0, "2022": 100, "2021": 100}
+            }
+          }
+        },
+        "Efficient": {
+          "subcategory": "Economic Performance - Financial Efficiency",
+          "metrics": {
+            "Operating cost per property": {
+              "unit": "$", "target_2025": 1045.3,
+              "values": {"2025": 1092.6, "2024": 1050.9, "2023": 960.5, "2022": 908.1, "2021": 807.8}
+            },
+            "Total cost per property": {
+              "unit": "$", "target_2025": 2412,
+              "values": {"2025": 2465, "2024": 2380, "2023": 2229, "2022": 2076, "2021": 2028}
+            },
+            "Surplus before income tax equivalent": {
+              "unit": "$m", "target_2025": 1594,
+              "values": {"2025": 1611, "2024": 1515, "2023": 1349, "2022": 1255, "2021": 1253}
+            },
+            "Return on assets": {
+              "unit": "%", "target_2025": 5.7,
+              "values": {"2025": 5.7, "2024": 6.2, "2023": 6.4, "2022": 7.0, "2021": 6.8}
+            },
+            "Return on equity": {
+              "unit": "%", "target_2025": 7.5,
+              "values": {"2025": 7.3, "2024": 7.5, "2023": 7.2, "2022": 7.2, "2021": 7.3}
+            },
+            "Interest cover": {
+              "unit": "Times", "target_2025": 8.1,
+              "values": {"2025": 7.8, "2024": 7.3, "2023": 6.7, "2022": 7.7, "2021": 6.7}
+            },
+            "Debt to Total Assets": {
+              "unit": "%", "target_2025": 25.3,
+              "values": {"2025": 21.0, "2024": 22.8, "2023": 26.9, "2022": 29.8, "2021": 32.6}
+            }
+          }
+        },
+        "Environmentally Sustainable": {
+          "metrics": {
+            "Overflows to Swan-Canning - conveyance system": {
+              "unit": "No.", "target_2025": 0,
+              "values": {"2025": 0, "2024": 2, "2023": 5, "2022": 3, "2021": 0}
+            },
+            "Overflows to Swan-Canning - pump stations only": {
+              "unit": "No.", "target_2025": 0,
+              "values": {"2025": 0, "2024": 6, "2023": 1, "2022": 1, "2021": 0}
+            },
+            "Electricity consumption per unit of output - water": {
+              "unit": "MWh/ML", "target_2025": 2.15,
+              "values": {"2025": 2.03, "2024": 1.77, "2023": 1.60, "2022": 1.88, "2021": 2.26}
+            },
+            "Electricity consumption per unit of output - wastewater": {
+              "unit": "MWh/ML", "target_2025": 0.85,
+              "values": {"2025": 0.80, "2024": 0.76, "2023": 0.81, "2022": 0.81, "2021": 0.82}
+            },
+            "Total energy consumption": {
+              "unit": "TJ", "target_2025": null,
+              "values": {"2025": null, "2024": 4390, "2023": 4024, "2022": 3461, "2021": 4148},
+              "note": "2025 actual not yet reported at time of publication. 2022 value shown as 3559 in earlier report editions."
+            },
+            "Reported greenhouse gas emissions (CO2 equivalent)": {
+              "unit": "kT", "target_2025": 568,
+              "values": {"2025": 578, "2024": 545, "2023": 450, "2022": 645, "2021": 760}
+            },
+            "Biosolids re-use (Perth metro)": {
+              "unit": "%", "target_2025": 100,
+              "values": {"2025": 100, "2024": 100, "2023": 99.8, "2022": 100, "2021": 100}
+            },
+            "Number of legal sanctions for environmental breaches": {
+              "unit": "No.", "target_2025": 0,
+              "values": {"2025": 0, "2024": 0, "2023": 0, "2022": 0, "2021": 0}
+            },
+            "Environment non-compliances addressed": {
+              "unit": "%", "target_2025": 95.0,
+              "values": {"2025": 92.2, "2024": 96.3, "2023": 96.4, "2022": 96.9, "2021": 94.5}
+            }
+          }
+        },
+        "Satisfied Customers": {
+          "metrics": {
+            "Continuity - properties not affected by interruption > 1hr": {
+              "unit": "%", "target_2025": 75.0,
+              "values": {"2025": 64.0, "2024": 64.2, "2023": 64.2, "2022": 71.1, "2021": 72.4}
+            },
+            "Water pressure and flow standards": {
+              "unit": "%", "target_2025": 99.80,
+              "values": {"2025": 99.95, "2024": 99.95, "2023": 99.95, "2022": 99.96, "2021": 99.96}
+            },
+            "Installation of new water connections": {
+              "unit": "%", "target_2025": 90.0,
+              "values": {"2025": 98.5, "2024": 96.3, "2023": 89.9, "2022": 95.9, "2021": 97.9}
+            },
+            "Properties without wastewater overflow": {
+              "unit": "%", "target_2025": 99.80,
+              "values": {"2025": 99.92, "2024": 99.93, "2023": 99.95, "2022": 99.94, "2021": 99.88}
+            },
+            "Water supplied per capita - Perth metro": {
+              "unit": "kL", "target_2025": 127,
+              "values": {"2025": 127, "2024": 132, "2023": 126, "2022": 130, "2021": 125}
+            },
+            "Blockages per 100km of sewer": {
+              "unit": "No.", "target_2025": 40.0,
+              "values": {"2025": 13.8, "2024": 15.0, "2023": 12.3, "2022": 12.9, "2021": 15.8}
+            },
+            "Leaks and bursts per 100km of main": {
+              "unit": "No.", "target_2025": 20.0,
+              "values": {"2025": 15.9, "2024": 15.3, "2023": 14.3, "2022": 13.6, "2021": 14.2}
+            },
+            "Drainage systems operating in accordance with guidelines": {
+              "unit": "%", "target_2025": 100,
+              "values": {"2025": 100, "2024": 100, "2023": 100, "2022": 100, "2021": 100}
+            },
+            "Complaints per 1000 properties": {
+              "unit": "No.", "target_2025": 0.4,
+              "values": {"2025": 0.2, "2024": 0.1, "2023": 0.1, "2022": 0.1, "2021": 0.1}
+            }
+          }
+        },
+        "Supporting State Development": {
+          "subcategory": "Social Performance - Employment and Workforce",
+          "metrics": {
+            "Employee initiated turnover": {
+              "unit": "%", "target_2025": 10.0,
+              "values": {"2025": 7.8, "2024": 8.3, "2023": 10.3, "2022": 9.7, "2021": 5.5}
+            },
+            "Women in senior management - tier 2": {
+              "unit": "%", "target_2025": 42.0,
+              "values": {"2025": 71.4, "2024": 71.4, "2023": 50.0, "2022": 33.3, "2021": 42.9}
+            },
+            "Women in senior management - tier 3": {
+              "unit": "%", "target_2025": 42.0,
+              "values": {"2025": 39.5, "2024": 38.5, "2023": 33.3, "2022": 28.6, "2021": 26.5}
+            },
+            "People from culturally diverse backgrounds": {
+              "unit": "%", "target_2025": 15.5,
+              "values": {"2025": 14.0, "2024": 13.8, "2023": 13.2, "2022": 12.6, "2021": 12.3}
+            },
+            "Indigenous Australians": {
+              "unit": "%", "target_2025": 7.0,
+              "values": {"2025": 4.7, "2024": 4.9, "2023": 5.2, "2022": 5.3, "2021": 4.8}
+            },
+            "People with disabilities": {
+              "unit": "%", "target_2025": 5.0,
+              "values": {"2025": 1.7, "2024": 1.4, "2023": 1.6, "2022": 1.6, "2021": 1.7}
+            },
+            "Youth (15-24)": {
+              "unit": "%", "target_2025": 5.8,
+              "values": {"2025": 4.6, "2024": 5.2, "2023": 5.4, "2022": 4.7, "2021": 3.8}
+            },
+            "Total Recordable Injury Frequency Rate (TRIFR)": {
+              "unit": "No.", "target_2025": 3.0,
+              "values": {"2025": 4.7, "2024": 5.6, "2023": 4.5, "2022": 3.8, "2021": 4.5}
+            }
+          }
+        }
+      }
+    },
+    "Financial Highlights": {
+      "description": "Key financial figures from the 2024-25 Financial Highlights narrative. All values relate to the year ended 30 June 2025 only.",
+      "metrics": {
+        "Total revenue": {"unit": "$bn", "value": 3.7},
+        "Operating surplus": {"unit": "$bn", "value": 1.1},
+        "Capital investment": {"unit": "$bn", "value": 1.4},
+        "Net operating revenue increase": {"unit": "%", "value": 2.4},
+        "Total expenditure increase": {"unit": "%", "value": 2.9},
+        "Operating cost per property increase": {"unit": "%", "value": 5.6},
+        "Total cost per property increase": {"unit": "%", "value": 3.3},
+        "ASDP capital investment": {"unit": "$m", "value": 465.3},
+        "Wastewater business investment": {"unit": "$m", "value": 339.4},
+        "Regional assets value": {"unit": "$bn", "value": 9.2},
+        "Regional major project investment": {"unit": "$m", "value": 255.4},
+        "Net accrual to government": {"unit": "$m", "value": -127.4},
+        "Land developer contributions (total)": {"unit": "$m", "value": 335.6},
+        "Land developer contributions (cash)": {"unit": "$m", "value": 206.1},
+        "Land developer contributions (physical assets)": {"unit": "$m", "value": 129.5}
+      }
+    }
+  }
+}
